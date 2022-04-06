@@ -1,0 +1,1 @@
+alert("Belajar tekweb 2022")
