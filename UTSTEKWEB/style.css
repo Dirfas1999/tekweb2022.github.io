@@ -1,0 +1,9 @@
+.jumbotron{
+    padding-top: 2rem;
+    background-color: rgb(230, 230, 230);
+    padding-bottom: 2rem;
+}
+
+.jumbotron img{
+    border-style: double;
+}
